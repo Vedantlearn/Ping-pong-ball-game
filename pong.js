@@ -85,7 +85,6 @@ function update() {
         // if ball touches top or bottom of canvas
         ball.velocityY *= -1; //reverse direction
     }
-
     // if (ball.y <= 0) { 
     //     // if ball touches top of canvas
     //     ball.velocityY = 2; //go down
