@@ -64,6 +64,7 @@ function update() {
     if (!outOfBounds(nextPlayer1Y)) {
         player1.y = nextPlayer1Y;
     }
+
     // player1.y += player1.velocityY;
     context.fillRect(player1.x, player1.y, playerWidth, playerHeight);
 
