@@ -158,7 +158,6 @@ function detectCollision(a, b) {
            a.y + a.height > b.y;    //a's bottom left corner passes b's top left corner
 }
 
-
 function resetGame(direction) {
     ball = {
         x : boardWidth/2,
