@@ -3,7 +3,7 @@ let board;
 let boardWidth = 500;
 let boardHeight = 500;
 let context; 
-
+ 
 //players
 let playerWidth = 10;
 let playerHeight = 50;
